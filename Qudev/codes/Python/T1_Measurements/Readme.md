@@ -1,4 +1,4 @@
-This is codes for T1 measurements
+Codes for T1 measurements
 
 Contributor :
 Trinadia K, 
